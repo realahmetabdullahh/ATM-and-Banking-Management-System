@@ -47,11 +47,11 @@ This C++ project provides a simple command-line ATM and banking management syste
   - **Update User**: Edits an existing user’s details.
   - **Find User**: Searches for a user and displays their information.
 
-#### File Structure
+#### All Data Save in 2 Files
 - **Client Data (clients.txt)**:
 - **User Data (users.txt)**:
   
-All Data Save in 2 Files
+
 
 
 1. **Login**: Users log in with a username and password.
