@@ -49,9 +49,9 @@ This C++ project provides a simple command-line ATM and banking management syste
 
 #### File Structure
 - **Client Data (clients.txt)**:
-- 
 - **User Data (users.txt)**:
-All Data's Saving in 2 Files
+  
+All Data Save in 2 Files
 
 
 1. **Login**: Users log in with a username and password.
